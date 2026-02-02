@@ -1,12 +1,13 @@
 Welcome to my Github page!
 
-📚 Future .NET/C#/Backend with cloud competency Developer 
+📚 Currently Studying: .NET/C#/Backend with cloud competency 
 
-🏫 NBI-Handelsakademin            
+🏫 School: NBI-Handelsakademin Gothenburg       
 
-🏙️ Gothenburg 
+🏙️ Based in: Gothenburg, Sweden
 
-Finished projects:
+🍹 Previous/Current career: Bartender @ Scandic Rubinen
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/e83a8f1b-d635-4870-94c2-16d61b4b07e3" />Finished projects:
 
 https://github.com/confusedpotatoe/GroupProdject
 
