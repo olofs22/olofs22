@@ -6,4 +6,8 @@ Welcome to my Github page!
 
 🏙️ Gothenburg 
 
-Follow my journey here on my GitHub page!
+Finished projects:
+
+https://github.com/confusedpotatoe/GroupProdject
+
+
