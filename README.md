@@ -1,3 +1,9 @@
 Welcome to my Github page!
 
-Im currently studying C#/.Net with Cloud competency at NBI/Handelsakademin Göteborg.
+📚 Future .NET/C#/Backend with cloud competency Developer 
+
+🏫 NBI-Handelsakademin            
+
+🏙️ Gothenburg 
+
+Follow my journey here on my GitHub page!
